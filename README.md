@@ -32,15 +32,15 @@ The occupancy counter relies on IR sensors to detect movement direction. The sys
 ### 3.1 Hardware
 
 The system consists of:  
-•	Microcontroller (ATmega328p) for processing  
+•	Microcontroller (ATmega328p)   
 •	16MHz Crystal Oscillator  
-•	Infrared LED and photodiode for movement detection  
-•	LCD display (16x2) to show real-time occupancy count  
-•	Buzzer for alerts when a room reaches maximum capacity  
-•	LED indicators (Red/Green/Yellow) for status display  
-•	9V lithium battery for power supply  
-•	Voltage regulator (LM7805) for power management  
-•	Comparator (LM393) for signal processing  
+•	Infrared LED and photodiode  
+•	LCD display (16x2)  
+•	Buzzer    
+•	LED indicators (Red/Green/Yellow)   
+•	battery  
+•	Voltage regulator (LM7805)   
+•	Dual Comparator (LM393)  
 •	resistors  
 •	capacitors  
 •	inductor  
@@ -181,4 +181,4 @@ Actual useful power consumption: 1W,  where V = 4.85V and I = 0.21A.
 
 * [2] https://docs.arduino.cc/hardware/uno-rev3/
 
-* [3] https://robotics.hochschule-rhein-waal.de/gitlab/practical-electronics/ws2024/pe12/-/tree/master/resources
+* [3] https://github.com/Loukikdivase/Occupancy-Counter/-/tree/master/resources
