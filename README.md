@@ -149,4 +149,4 @@ Actual useful power consumption: 1W,  where V = 4.85V and I = 0.21A.
 
 * [2] https://docs.arduino.cc/hardware/uno-rev3/
 
-* [3] https://github.com/Loukikdivase/Occupancy-Counter/resources
+* [3] https://github.com/Loukikdivase/Occupancy-Counter/tree/main/resources
