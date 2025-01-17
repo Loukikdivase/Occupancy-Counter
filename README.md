@@ -17,7 +17,27 @@ The occupancy counter is designed to ensure a seamless flow of people, especiall
 
 ## Table of Contents
 
-[[_TOC_]]
+- [Abstract](#abstract)
+- [1 Introduction](#1-introduction)
+- [2 Theory](#2-theory)
+- [3 Methodology](#3-methodology)
+  - [3.1 Hardware](#31-hardware)
+  - [3.2 Software](#32-software)
+- [4 Bill of Materials (BOM)](#4-bill-of-materials-bom)
+- [5 Results](#5-results)
+  - [5.1 Prototype](#51-prototype)
+  - [5.2 Schematic](#52-schematic)
+  - [5.3 Board](#53-board)
+  - [5.4 UV Masking](#54-uv-masking)
+  - [5.5 Etching](#55-etching)
+  - [5.6 Drilling](#56-drilling)
+  - [5.7 Baking](#57-baking)
+  - [5.8 Testing](#58-testing)
+  - [5.9 Outsourcing](#59-outsourcing)
+- [6 Discussion](#6-discussion)
+- [7 Conclusion](#7-conclusion)
+- [8 Power Consumption](#8-power-consumption)
+- [9 References](#9-references)
 
 ## 1 Introduction
 
